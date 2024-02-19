@@ -2,8 +2,12 @@ Gallery PAGE.
 
 URLS for API testing:
 https://api.cloudinary.com/v1_1/:cloud_name/:action\
+<<<<<<< HEAD
 https://api.cloudinary.com/v1_1/dknxqwch7/resources/image
 https://api.cloudinary.com/v1_1/dknxqwch7/resources/search
+=======
+
+>>>>>>> 583e3e00cf2b8e26aecd12c0b09fc8d78c69431a
 localhost:7000/photos
 
 POST https://api.cloudinary.com/v1_1/demo/image/upload

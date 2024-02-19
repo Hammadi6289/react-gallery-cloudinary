@@ -45,6 +45,9 @@ const App = () => {
 
   return (
     <>
+      <header className="gallery-header">
+        <h1>Gallery Section</h1>
+      </header>
       <form onSubmit={handleFormSubmit}>
         <input
           value={searchValue}
